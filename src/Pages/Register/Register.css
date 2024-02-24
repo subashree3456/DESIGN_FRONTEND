@@ -1,0 +1,25 @@
+.registercontainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px auto;
+  color: white;
+}
+.registercontainer h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.registercontainer input {
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  border-radius: 5px;
+}
